@@ -29,16 +29,16 @@ For a given puzzle, there are many possible solutions, but solutions that use fe
 
 For the puzzle above, one possible solution is
 
- LIMES 
+ **LIMES** 
  
- STONES
+ **STONES** 
  
- SHAKY
+ **SHAKY** 
 
 However, an even better solution is
  
- MILESTONES
+ **MILESTONES** 
 
- SHAKY
+ **SHAKY** 
 
 because it uses fewer words.
