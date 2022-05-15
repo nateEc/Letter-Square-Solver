@@ -4,6 +4,7 @@ Self-Implemented Letter Square Solver(Using Recursive Backtracking technique)
 The New York Times includes a daily puzzle called “Letter Boxed.” It involves a set of 12 letters arranged around the sides of a square, 
 
 such as the following:
+
 ![S](https://user-images.githubusercontent.com/92423096/168499197-85f44c9c-333d-40f0-a443-090a5afed42b.png)
 
 To solve the puzzle, you need to come up with a sequence of English words in which each letter in the puzzle appears at least once. 
@@ -29,11 +30,15 @@ For a given puzzle, there are many possible solutions, but solutions that use fe
 For the puzzle above, one possible solution is
 
  LIMES 
+ 
  STONES
+ 
  SHAKY
 
 However, an even better solution is
+ 
  MILESTONES
-SHAKY
+
+ SHAKY
 
 because it uses fewer words.
